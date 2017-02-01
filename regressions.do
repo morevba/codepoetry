@@ -1,4 +1,4 @@
-clear all 
+clear all
 set more off
 sysyse auto
-reg price auto
+reg price auto, robust 
