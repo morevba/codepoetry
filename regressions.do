@@ -4,3 +4,7 @@ sysyse auto
 reg price auto
 
 sum length 
+
+
+
+
