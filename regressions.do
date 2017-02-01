@@ -1,6 +1,7 @@
-clear all 
+clear all
 set more off
 sysyse auto
+<<<<<<< HEAD
 reg price auto
 
 sum length 
@@ -8,3 +9,8 @@ sum length
 
 
 
+=======
+reg price auto, robust
+
+done
+>>>>>>> experimental
